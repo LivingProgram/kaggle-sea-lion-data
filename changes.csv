@@ -27,7 +27,7 @@ img_id,coord_add,coord_remove
 105,[[]],[[]]
 108,[[]],[[]]
 110,[[]],[[]]
-112,"[[1945,2740,'adult_females'],[1156,1362,'adult_females']]",[[]]
+112,"[[1945,2740,'adult_females'],[1153,1365,'adult_females']]",[[]]
 122,[[]],[[]]
 126,[[]],"[[473,4796,'adult_males'],[474,4774,'adult_males'],[474,4787,'adult_males']]"
 127,"[[3053,3014,'adult_females']]",[[]]
@@ -37,7 +37,7 @@ img_id,coord_add,coord_remove
 146,[[]],[[]]
 148,"[[1385,4519,'subadult_males']]",[[]]
 155,[[]],[[]]
-170,"[[623,3234,'adult_males']]",[[]]
+170,"[[623,3234,'adult_females']]",[[]]
 174,[[]],"[[3517,3144,'adult_males'],[3500,3710,'adult_males']]"
 175,[[]],[[]]
 177,"[[2630,5186,'subadult_males']]",[[]]
